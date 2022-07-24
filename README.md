@@ -160,15 +160,15 @@ You'll first need to install [ESLint](https://eslint.org/) and this plugin:
 ```sh
 # Use your preferred package manager. If you don't have strong opinions on this, here's mine.
 # I would **highly** recommend pnpm, as its the most sensible.
-pnpm add eslint @cadence/eslint-plugin -D
+pnpm add eslint @cadencejs/eslint-plugin -D
 
 # Yarn is also pretty good, but there's a couple of pain points and generally
 # worse performance.
-yarn add eslint @cadence/eslint-plugin -D
+yarn add eslint @cadencejs/eslint-plugin -D
 
 # use NPM if you have to. The other package managers are faster and have saner commands.
 # for example, `npm install` ignores your lockfile.
-npm i eslint @cadence/eslint-plugin --save-dev
+npm i eslint @cadencejs/eslint-plugin --save-dev
 ```
 
 ## Usage
