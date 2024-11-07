@@ -1,15 +1,8 @@
 # Cadence (Alpha)
 
-Cadence is an experimental, **brutally strict** ESLint config for **forcing** clean, less-buggy TypeScript code.
+Do not use Cadence. It is likely unsupported and will not work. It was developed for [Tachi](https://github.com/zkrising/Tachi), but is no longer being actively maintained.
 
-**NOTE: Cadence is an experimental config, and in its very early phases. I can be swayed on some rules. Make a discussion or an issue on this repo and I'll get to it!**
-
-**NOTE: Cadence is a preset compiling mostly other peoples hard work. If you like this, you should support upstream.**
-
-- [ESLint](https://github.com/ESLint)
-- [typescript-eslint](https://github.com/typescript-eslint)
-- [eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
-- [prettier](https://github.com/prettier/prettier)
+Sadly, the JS ecosystem moves far too fast - I had the audacity to write this project and then move on with my life, which means it doesn't work any more. Haha.
 
 ## Try it out on your own code!
 
